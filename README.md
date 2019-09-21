@@ -10,4 +10,4 @@ Can be used in splash-screens, although using them when data is being loaded cra
 work as splash screen animations, so here's the alternative way to go.
 
 
-<img src="ezgif.com-crop.gif">
+<img src="ezgif.com-crop.gif" height="50%" width="50%">
