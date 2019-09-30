@@ -1,4 +1,4 @@
-# Animation_examples_for_java
+# Playground_Project_for_java
 Simple project that showcases the animations you can integrate within some other project. 
 I'll be using this repo to experiment with varieties of animation you can add in a java project since directly adding 
 to a major project messes everything up.
